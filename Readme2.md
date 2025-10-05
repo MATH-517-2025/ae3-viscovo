@@ -1,6 +1,6 @@
-# MATH-517: Assignment 2 - Reproduction Instructions
+# MATH-517: Assignment 3 - Reproduction Instructions
 
-This repository contains the report and code for Assignment 2.
+This repository contains the report and code for Assignment 3.
 
 ## How to Reproduce the PDF Report
 
